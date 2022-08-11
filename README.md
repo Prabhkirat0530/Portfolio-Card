@@ -5,4 +5,4 @@ A simple portfolio card with all the information about me
 ## https://prabhkirat0530.github.io/Portfolio-Card/
 
 
-<img src="Sreenshot.png" width="100%">
+<img src="ScreenShot.png" width="100%">
